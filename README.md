@@ -5,6 +5,9 @@
 
 ![1](https://user-images.githubusercontent.com/52646408/226222322-de26eb32-1cc5-464a-b5d3-661dee456079.png)
 
+![CQRS1](https://user-images.githubusercontent.com/52646408/227817248-c7840fcb-8eab-469a-b227-1580b74cda8f.png)
+![CQRS2](https://user-images.githubusercontent.com/52646408/227817268-8b310224-fe2a-4cf5-9b82-25e18561788d.png)
+
 ![3](https://user-images.githubusercontent.com/52646408/226222339-56717b28-994b-4b78-a9b4-e27cc2f5b248.png)
 
 
